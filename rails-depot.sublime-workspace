@@ -1,0 +1,483 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"back",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 327.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 602.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/justin/Development/depot"
+	],
+	"file_history":
+	[
+		"/home/justin/Development/craftbeercards.com/sftp-config.json",
+		"/home/justin/Development/craftbeercards.com/assets/css/craftbeercards.css",
+		"/home/justin/Development/craftbeercards.com/chunks/footer.php",
+		"/home/justin/Development/craftbeercards.com/chunks/header.php",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/wp-content/plugins/shopp/core/model/Promotion.php",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/wp-content/plugins/shopp/core/model/Product.php",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/wp-content/plugins/shopp/core/model/Price.php",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/wp-content/plugins/shopp/core/model/Payments.php",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/wp-content/plugins/types/resources/js/codemirror234/mode/less/index.html",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/wp-content/plugins/locatoraid/system/core/Model.php",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/wp-admin/moderation.php",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/wp-admin/ms-options.php",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/wp-mail.php",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/wp-admin/includes/class-wp-comments-list-table.php",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/wp-comments-post.php",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/wp-content/plugins/easing-slider/includes/Slideshow.php",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/wp-content/plugins/ml-slider/inc/slide/metaslide.class.php",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/wp-content/plugins/ml-slider/inc/simple_html_dom.php",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/wp-content/plugins/ml-slider/inc/metaslider.imagehelper.class.php",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/wp-content/plugins/locatoraid/application/index_ci.php",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/wp-content/themes/laurelwood/page-intro_new.php",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/index.php",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/wp-admin/update.php",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/wp-content/uploads/2011/01/BEERSEG4_010811.mp3",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/wp-content/plugins/shopp/core/ui/icons/bc.svg",
+		"/home/justin/Downloads/laurelwood.sql",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/wp-content/themes/laurelwood/new.css",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/wp-content/themes/foodeez-lite/page-shopp.php",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/wp-content/themes/foodeez-lite/header.php",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/wp-content/themes/laurelwood/header.php",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/sftp-config.json",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/wp-content/themes/laurelwoodbrewpub/header.php",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/wp-content/themes/laurelwoodbeer/footer.php",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/wp-content/themes/laurelwood/style.css",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/wp-content/themes/laurelwoodbeer/page-locations.php",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/wp-content/themes/foodeez-lite/newsletter-signup.php",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/wp-content/themes/laurelwoodbeer/page-donation.php",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/wp-content/themes/foodeez-lite/style.css",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/wp-content/themes/foodeez-lite/includes/front-featured-boxes-section.php",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/wp-content/plugins/locatoraid/application/views/front.php",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/wp-content/themes/foodeez-lite/css/bootstrap-responsive.css",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/wp-content/themes/laurelwoodbeer/page-shopp.php",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/wp-content/themes/foodeez-lite/content.php",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/wp-content/plugins/shopp/api/theme/product.php",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/wp-content/plugins/shopp/core/ui/behaviors/cart.js",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/wp-content/themes/laurelwoodbeer/page-beers.php",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/wp-content/themes/laurelwoodbrewpub/static-nav.html",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/wp-content/themes/laurelwoodbrewpub/newsletter-signup.php",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/wp-content/themes/laurelwoodbeer/single-locations.php",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/wp-content/themes/laurelwood/header-intro.php",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/wp-content/themes/laurelwoodbeer/style.css",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/wp-content/themes/laurelwoodbeer/page-taplist.php",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/wp-content/themes/foodeez-lite/taplist-ne.php",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/wp-content/themes/laurelwood/taplist.css",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/wp-content/themes/twentyfourteen/taxonomy-post_format.php",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/wp-content/plugins/types/plus/types-access.php",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/wp-trackback.php",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/wp-admin/options.php",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/wp-content/plugins/shopp/core/ui/orders/navigation.php",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/wp-content/themes/foodeez-lite/SketchBoard/includes/languages/option-tree.po",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/wp-content/themes/foodeez-lite/css/fonts/FontAwesome.otf",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/wp-content/themes/twentyfourteen/content-aside.php",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/wp-activate.php",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/wp-blog-header.php",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/wp-includes/js/plupload/handlers.js",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/wp-content/plugins/locatoraid/application/libraries/Hc_time.php",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/wp-includes/class-wp-image-editor-gd.php",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/wp-admin/js/gallery.js",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/wp-content/plugins/shopp/core/model/Gateway.php",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/wp-content/themes/laurelwoodbrewpub/style.css",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/wp-content/themes/laurelwood/page-beers.php",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/wp-content/themes/foodeez-lite/includes/laurelwood.instagram.php",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/wp-admin/link-add.php",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/license.txt",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/wp-content/themes/laurelwoodbrewpub/css/bootstrap-responsive.css",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/wp-content/themes/laurelwoodbrewpub/single.php",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/wp-content/themes/laurelwoodbrewpub/content.php",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/wp-content/themes/foodeez-lite/single.php",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/wp-admin/network/site-themes.php",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/wp-content/themes/foodeez-lite/page-beers.php",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/wp-content/themes/foodeez-lite/page-locations.php",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/wp-content/themes/laurelwoodbeer/js/jquery.cookie.js",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/wp-content/themes/laurelwoodbeer/single-beer.php",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/wp-content/themes/foodeez-lite/includes/front-parallax-section.php",
+		"/home/justin/Development/beer.laurelwoodbrewpub.com/wp-content/themes/laurelwood/newsletter-signup.php",
+		"/home/justin/Code/beer.laurelwoodbrewpub.com/wp-content/themes/laurelwoodbeer/page-single-beer.php",
+		"/home/justin/Code/beer.laurelwoodbrewpub.com/wp-content/themes/laurelwoodbeer/single-beer.php",
+		"/home/justin/Code/beer.laurelwoodbrewpub.com/sftp-config.json",
+		"/home/justin/Code/beer.laurelwoodbrewpub.com/wp-content/themes/laurelwoodbrewpub/footer.php",
+		"/home/justin/Code/beer.laurelwoodbrewpub.com/wp-content/themes/laurelwoodbeer/footer.php",
+		"/home/justin/Code/beer.laurelwoodbrewpub.com/wp-content/themes/laurelwood/footer.php",
+		"/home/justin/Code/beer.laurelwoodbrewpub.com/wp-content/themes/foodeez-lite/footer.php",
+		"/home/justin/Link to Development/beer.laurelwoodbrewpub.com/wp-content/themes/foodeez-lite/includes/laurelwood.instagram.php",
+		"/home/justin/Link to Development/beer.laurelwoodbrewpub.com/wp-content/themes/foodeez-lite/includes/front-header-image-section.php",
+		"/tmp/sublime-sftp-browse-1402096296/mapped/var/www/vhosts/laurelwoodbrewpub.com/httpdocs/wp-content/themes/index.php",
+		"/home/justin/Link to Development/Laurelwoodbrewpub/wp-content/plugins/shopp/core/model/Product.php",
+		"/home/justin/Link to Development/Laurelwoodbrewpub/wp-content/themes/laurelwood/index.php",
+		"/home/justin/Link to Development/Laurelwoodbrewpub/wp-content/themes/index.php",
+		"/home/justin/Link to Development/Laurelwoodbrewpub/wp-content/themes/laurelwood/page-beers.php",
+		"/home/justin/Link to Development/Laurelwoodbrewpub/wp-content/themes/laurelwood/footer.php",
+		"/home/justin/Link to Development/Laurelwoodbrewpub/.htaccess",
+		"/home/justin/Link to Development/Laurelwoodbrewpub/sftp-config.json",
+		"/tmp/sublime-sftp-browse-1393272724/mapped/var/www/vhosts/laurelwoodbrewpub.com/httpdocs/wp-content/themes/laurelwood/404.php",
+		"/home/justin/Link to Development/Laurelwoodbrewpub/wp-content/wsconfig.php",
+		"/home/justin/Link to Development/Laurelwoodbrewpub/wp-includes/class-simplepie.php",
+		"/home/justin/Link to Development/Laurelwoodbrewpub/wp-includes/js/tinymce/langs/wp-langs.php",
+		"/home/justin/Link to Development/Laurelwoodbrewpub/fTNxy24.html",
+		"/home/justin/Dropbox/Development/sftp-config.json",
+		"/home/justin/Dropbox/General Notes/I can offer you over 10 years of experience in bot",
+		"/home/justin/Dropbox/General Notes/TO DO LIST",
+		"/home/justin/Dropbox/General Notes/WILDFANG",
+		"/home/justin/Dropbox/General Notes/wildfang notes.txt",
+		"/home/justin/Dropbox/General Notes/Wildfang - Sprints",
+		"/home/justin/Dropbox/Development/Laurelwood Brewpub/wp-content/themes/laurelwood/header.php",
+		"/home/justin/Dropbox/Development/Laurelwood Brewpub/.htaccess",
+		"/home/justin/Dropbox/Development/Laurelwood Brewpub/sftp-config.json",
+		"/home/justin/Dropbox/Development/Laurelwood Brewpub/wp-content/themes/laurelwood/footer.php",
+		"/home/justin/Development/Laurelwood Brewpub/wp-content/themes/laurelwood/includes/js/stepcarousel-setup.js",
+		"/home/justin/Development/Laurelwood Brewpub/webmail/index.php",
+		"/home/justin/Development/Laurelwood Brewpub/sftp-config.alt.json",
+		"/home/justin/Development/Laurelwood Brewpub/sftp-config.json",
+		"/home/justin/Development/TurtleFiji/thankyou.php",
+		"/home/justin/Development/TurtleFiji/js/AjaxCode.js",
+		"/home/justin/Development/TurtleFiji/.htaccess",
+		"/home/justin/Development/TurtleFiji/ajax/xml_data_provider.php",
+		"/home/justin/Development/TurtleFiji/Response_Email.html",
+		"/home/justin/Development/TurtleFiji/Response_Email2.html",
+		"/home/justin/Development/TurtleFiji/Response_Email2.txt"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<project>",
+			"/home/justin/Link to Development/Laurelwoodbrewpub/wp-content/plugins/shopp/core",
+			"/home/justin/Development/Laurelwood Brewpub",
+			"<project>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"jquery-1.10",
+			"\n    ",
+			"https://s3-us-west-2.amazonaws.com/craftbeercards",
+			"mod_fcgid",
+			"spec.php",
+			"mod_fcgid",
+			"classes.php",
+			"flexslider",
+			"beer.laurel",
+			"flexslider",
+			"easingsliderlite",
+			"beer",
+			"pingback",
+			"beer.laurelwoodbrewpub.com",
+			"close",
+			"val",
+			"value",
+			"Add To Cart",
+			"name=\"addtocart\"",
+			"closetaplist",
+			"chooselocation",
+			"$",
+			"showtaplist",
+			"author-name",
+			"#logo",
+			"1005px",
+			"ske-footer-container",
+			"#beerlogos",
+			"div#beerswitcher",
+			"beerswitcher",
+			"width=\"521\"",
+			"font-family: Times New Roman; font-size: small;",
+			"introtext",
+			"true",
+			"<h2>Beer Prices</h2>",
+			"beer switcher",
+			"beer prices",
+			"drank.widea_.png",
+			"custom.js",
+			"migrate.min",
+			"jquery",
+			"$.cookie(",
+			"cookie",
+			"$.c",
+			"$.",
+			"jquery",
+			"value=\"email address\"",
+			"http://beer.laurelwoodbrewpub.com",
+			"drank.wide",
+			"top-nav-menu",
+			"padding: 6px 26px",
+			"top-nav-menu",
+			"topbar_info",
+			"top contact info",
+			"topbar_info",
+			"@",
+			"mobile",
+			"max-height: 62px;",
+			"#logo",
+			"62px",
+			"singlepage",
+			"single",
+			"single-beer",
+			"!!!",
+			"title",
+			"opendining",
+			"currenttaplist",
+			"res-button",
+			"showtaplist",
+			"lpr-results",
+			"footerlogo",
+			"footer-section",
+			"alpha omega",
+			"copyright",
+			"slider",
+			"fade_in_hide element_fade_in",
+			"skt-animated",
+			"ani",
+			"main",
+			"lobster",
+			"slider-top",
+			"foodeez-image-post",
+			"dish of the day",
+			"h3",
+			"dancing script",
+			"theme by",
+			"skenav",
+			"res-button",
+			"topbar_info",
+			"social_icon",
+			"logo-trans",
+			"function_exists('file_put_contents')",
+			"@",
+			"LP_setval",
+			"levitra",
+			"Password:",
+			"ajax.taplist.php",
+			"taplister",
+			"taplister-import",
+			"shopp_gallery",
+			"gallery",
+			"http://",
+			"Laurelwood-15.jpg",
+			"/www/",
+			"Bottle Trek",
+			"beer shipping laws",
+			"priv",
+			"0.7",
+			"360",
+			"580",
+			"validation",
+			"width",
+			"home_slide",
+			"homeSlides",
+			"homeSlide",
+			"response",
+			"iquired",
+			"toggleRequiredOnAddressFields",
+			"none",
+			"validation",
+			"google",
+			"sendform",
+			"intended",
+			"how did you",
+			"function ContinentListOnChange()",
+			"continentList",
+			"ContinentListOnChange",
+			"span"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"www.laurelwoodbrewpub.com",
+			"https://",
+			"images"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 240.0
+	},
+	"project": "rails-depot.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"model/pro",
+				"wp-content/plugins/shopp/core/model/Product.php"
+			],
+			[
+				"wp-comments",
+				"wp-comments-post.php"
+			],
+			[
+				"tapli",
+				"wp-content/themes/laurelwoodbeer/page-taplist.php"
+			],
+			[
+				"laurelwoodbeer/styl",
+				"wp-content/themes/laurelwoodbeer/style.css"
+			],
+			[
+				"style.css",
+				"wp-content/themes/laurelwoodbeer/style.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 267.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
