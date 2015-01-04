@@ -11,3 +11,9 @@ two:
   description: MyText
   image_url: MyString
   price: 9.99
+
+ruby:
+  title: India Pale Ale
+  description: A hoppy version of the traditional Pale Ale
+  price: 4.75
+  image_url: ipa.png
